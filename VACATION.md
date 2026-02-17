@@ -15,7 +15,7 @@ All PRs will be auto-closed until then. Approved contributors can submit PRs aft
       "links": {
         "discord": "https://discord.gg/example",
         "🐙:GitHub Issues": "https://github.com/hjanuschka/holiday/issues",
-        "☕:Buy me a coffee": "https://buymeacoffee.com/example"
+        "☕:Buy me a coffee": "https://buymeacoffee.com/hjanuschka"
       }
     }
   ]
