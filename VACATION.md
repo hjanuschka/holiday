@@ -13,7 +13,9 @@ All PRs will be auto-closed until then. Approved contributors can submit PRs aft
       "title": "Winter Break 2026",
       "message": "Issue tracker and PRs reopen February 23, 2026. All PRs will be auto-closed until then.",
       "links": {
-        "discord": "https://discord.gg/example"
+        "discord": "https://discord.gg/example",
+        "🐙:GitHub Issues": "https://github.com/hjanuschka/holiday/issues",
+        "☕:Buy me a coffee": "https://buymeacoffee.com/example"
       }
     }
   ]
